@@ -1,0 +1,15 @@
+id_cliente,nome,email,cidade,estado,data_cadastro
+101,Carlos Silva,carlos.silva@email.com,Sao Paulo,SP,2023-06-10
+102,Maria Oliveira,maria.oliveira@email.com,Rio de Janeiro,RJ,2023-07-15
+103,Joao Santos,joao.santos@email.com,Belo Horizonte,MG,2023-08-20
+104,Ana Costa,ana.costa@email.com,Curitiba,PR,2023-09-01
+105,Pedro Lima,pedro.lima@email.com,Porto Alegre,RS,2023-09-15
+106,Julia Ferreira,julia.ferreira@email.com,Salvador,BA,2023-10-01
+107,Lucas Almeida,lucas.almeida@email.com,Brasilia,DF,2023-10-20
+108,Fernanda Souza,fernanda.souza@email.com,Fortaleza,CE,2023-11-05
+109,Ricardo Pereira,ricardo.pereira@email.com,Recife,PE,2023-11-20
+110,Patricia Gomes,patricia.gomes@email.com,Florianopolis,SC,2023-12-01
+101,Carlos Silva,carlos.silva@email.com,Sao Paulo,SP,2023-06-10
+105,Pedro Lima,pedro.lima@email.com,Porto Alegre,RS,2023-09-15
+111,Gabriel Rocha,gabriel.rocha@email.com,,SP,2024-01-10
+112,Larissa Martins,,Goiania,GO,2024-01-20

@@ -1,0 +1,29 @@
+id_venda,id_cliente,produto,quantidade,preco_unitario,data_venda,canal
+1,101,Notebook Dell,2,3500.00,2024-01-15,online
+2,102,Mouse Logitech,5,75.50,2024-01-16,loja fisica
+3,103,Teclado Mecanico,3,250.00,2024-01-17,online
+4,101,Monitor 24pol,1,1200.00,2024-01-18,loja fisica
+5,104,Webcam HD,4,180.00,2024-02-01,online
+6,105,Headset Gamer,2,350.00,2024-02-03,loja fisica
+7,102,Notebook Dell,1,3500.00,2024-02-10,online
+8,106,SSD 500GB,3,280.00,2024-02-15,online
+9,103,Mouse Logitech,10,75.50,2024-02-20,loja fisica
+10,107,Memoria RAM 16GB,2,320.00,2024-03-01,online
+11,101,Teclado Mecanico,1,250.00,2024-03-05,loja fisica
+12,108,Notebook Dell,1,3500.00,2024-03-10,online
+13,104,Monitor 24pol,2,1200.00,2024-03-12,online
+14,109,Headset Gamer,1,350.00,2024-03-15,loja fisica
+15,105,SSD 500GB,5,280.00,2024-03-20,online
+16,110,Webcam HD,3,180.00,2024-03-25,loja fisica
+17,102,Memoria RAM 16GB,1,320.00,2024-04-01,online
+18,106,Notebook Dell,2,3500.00,2024-04-05,loja fisica
+19,103,Monitor 24pol,1,1200.00,2024-04-10,online
+20,107,Mouse Logitech,4,75.50,2024-04-15,online
+3,103,Teclado Mecanico,3,250.00,2024-01-17,online
+8,106,SSD 500GB,3,280.00,2024-02-15,online
+12,108,Notebook Dell,1,3500.00,2024-03-10,online
+21,101,Notebook Dell,1,,2024-04-20,online
+22,,Mouse Logitech,2,75.50,2024-04-22,loja fisica
+23,109,Headset Gamer,-1,350.00,2024-04-25,online
+24,104,SSD 500GB,2,280.00,data_invalida,online
+25,110,Monitor 24pol,1,1200.00,2024-05-01,
